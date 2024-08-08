@@ -1,10 +1,20 @@
-- 👋 Olá, meu nome é Izaque Gabriel Canavarro Alves;
-- 🌱 Atualmente, estou cursando o 9º ano do Ensino Fundamental;
-- 💞️ Procuro colaborar e ajudar no que for preciso (considerando meus conhecomentos atuais);
-- 📫 Podes entrar em contato comigo através do meu email: canavarroizaque44@gmail.com;
-- ⚡ Curiosidades: as vezes eu fico conversando sozinho, mas eu faço isso para organizar meus pensamentos enquanto faço uma tarefa bem extensa;
+## Bem-vindo(a) ao perfil do Izaque Canavarro !!
 
-<!---
-Iniciante-mirim/Iniciante-mirim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <div>
+   <a href="https://github.com/Iniciante-Mirim">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iniciante-Mirim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+<br>
+ 
+### Para mais informações entre em minhas redes sociais!
+ 
+<div> 
+  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="mailto:canavarroizaque44@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmaill&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/izaque-canavarro-4932282b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
